@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qu4ttroo
 - 👀 I’m interested in basically everything regarding computer science.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
